@@ -10,6 +10,9 @@ http://localhost:4053/login
   "email":"test@gmail.com",
   "contrasena":"123123"
 }
+# Ruta logout
+http://localhost:4053/logout
+
 
 # Ruta Crear usuario
 http://localhost:4053/create/users
