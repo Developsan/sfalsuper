@@ -48,6 +48,15 @@ http://localhost:4053/about
 # Ruta autores
 http://localhost:4053/autor
 
+# Ruta todos los autores y el numero de libros que tiene.
+http://localhost:4053/view/book/count
+
+# Ruta todos los libros de un autor
+
+http://localhost:4053/view/book/author/4
+{
+  "author_id" : 4
+}
 
 
 
