@@ -1,0 +1,1 @@
+export const about = (req,res) => res.send('Bienvenido a la página "Acerca de nosotros');
